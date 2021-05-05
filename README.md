@@ -1,41 +1,10 @@
 # pitch-react-native
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** jo-finndian, pitch-react-native, twitter_handle, email, project_title, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 [![Contributors][contributors-shield1]](https://github.com/jo-finndian)
 [![Contributors][contributors-shield2]](https://github.com/jzzzbl)
 [![LinkedIn][linkedin-shield1]](https://www.linkedin.com/in/sandramannila/)
 [![LinkedIn][linkedin-shield2]](https://www.linkedin.com/in/jeztorresv/)
-<!--[![Forks][forks-shield]][forks-url]-->
-<!--[![Stargazers][stars-shield]][stars-url]-->
-<!--[![Issues][issues-shield]][issues-url]-->
-<!--[![MIT License][license-shield]][license-url]-->
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/jo-finndian/pitch-react-native">
@@ -91,18 +60,10 @@
 ## About The Project
 
 [![Pitch iPhone mockups](/assets/images/mockup_sm.png)](https://www.youtube.com/watch?v=BMawKe8x8ZA)
-<!--<a href="https://www.youtube.com/watch?v=BMawKe8x8ZA">
-  <img src="assets/images/mockup_sm.png" alt="Mockup Preview" style="margin-bottom: 40px;">
-</a>-->
 
 Pitch is an app that creates a playlist based on the music analytics of the people within a specific location (ie. a bar, house) or those invited into a playlist group. The playlist is created by finding the most common musical tastes within the group based on likes, saved playlists, and personal Spotify listening data. The algorithm will then spit out a playlist similarly to how Spotify gives you recommendations. You can set “dynamics” such as moods, genres, ect as well as create playlist constraints like vetoing artists. Users within a playlist group can request songs as well that can be upvoted within the group. 
 
 The app will create a playlist combining each individual user’s Spotify preferences to form a group music profile. Users can set different “dynamics” such as mood, genre, or artists, as well as create playlist constraints, like vetoing artists. Users within a playlist group can also request songs that can be upvoted, or down vote someone else’s. Musical taste collaboration and democratization. 
-
-
-<!--Here's a blank template to get started:-->
-<!--**To avoid retyping too much info. Do a search and replace with your text editor for the following:**-->
-<!--`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`-->
 
 
 ### Built With
@@ -167,28 +128,12 @@ This is an example of how to list things you need to use the software and how to
 
 Pitch is very much under development. We plan to take this to Test Flight by the end of 2021. If you have suggestions, or wish to work with us please reach out!
 
-<!--Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
-
-<!--_For more examples, please refer to the [Documentation](https://example.com)_-->
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/jo-finndian/pitch-react-native/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jo-finndian/pitch-music_public/issues) for a list of proposed features (and known issues).
 
-
-<!-- CONTRIBUTING -->
-<!--## Contributing-->
-<!---->
-<!--Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.-->
-<!---->
-<!--1. Fork the Project-->
-<!--2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)-->
-<!--3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)-->
-<!--4. Push to the Branch (`git push origin feature/AmazingFeature`)-->
-<!--5. Open a Pull Request-->
 
 
 ## License
@@ -202,7 +147,7 @@ Sandra Mannila - [@sandramannila](https://www.linkedin.com/in/sandramannila/) - 
 
 Jezebel Torres - [@jeztorresv](https://www.linkedin.com/in/jeztorresv/) - jeztorresv@gmail.com
 
-Project Link: [https://github.com/jo-finndian/pitch-react-native](https://github.com/jo-finndian/pitch-react-native)
+Project Link: [https://github.com/jo-finndian/pitch-music_public](https://github.com/jo-finndian/pitch-music_public)
 
 
 
